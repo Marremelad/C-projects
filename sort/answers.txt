@@ -1,0 +1,23 @@
+sort1 uses: Bubble sort
+
+
+How do you know?:
+I started by running the programs with sorted5000.txt. Sort1 performed the best, sort2 was average and sort3 was average.
+
+
+sort2 uses: Merge sort
+
+
+How do you know?:
+I later comfirmed this using random5000.txt on all files and sort2 by far performed the fastest, meaning that it likely was merge sort.
+
+sort3 uses: Selection sort
+
+
+How do you know?:
+Then i came to the conclusion that, since sort1 and sort2 had an area where they performed well and sort3 performed avarage or worse on all tests sort3 had to be selection sort.
+This way of thinkig is in line with the big O notations and omega notations that we have learned.
+
+
+
+
